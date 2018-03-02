@@ -18,6 +18,7 @@ can see the parents of each commit in several branches
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+to put 2 branches with resultant changes together again
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
