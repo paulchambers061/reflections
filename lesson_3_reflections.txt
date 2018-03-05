@@ -14,3 +14,7 @@ for local history and audit of the changes on the local computer
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 by talking to others on the project. easier getting latest thoughts harder controlling the scripts
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+control of what you want to test/create
