@@ -11,3 +11,6 @@ branch is a local copy from the master for testing new ideas, etc
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 for local history and audit of the changes on the local computer
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+by talking to others on the project. easier getting latest thoughts harder controlling the scripts
